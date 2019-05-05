@@ -17,3 +17,6 @@ Modes for failure:
 1. Change the AP ssid and pass in the code from all the nodes
 2. The mongoDB and mosquitto broker are left open in the project, add pass in code if needed.
 3. Keep the server in a relatively open open space to reduce multipath fading
+4. Change the RSSI @ 1m in the node.py codes
+5. Change (x, y) coordinates of al the nodes in trilateration.py
+6. Calculate the loss factor
