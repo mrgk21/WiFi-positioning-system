@@ -3,6 +3,7 @@
 It trilaterates the position of the broker using RSSI values from all the nodes
 Based on MQTT protocol and using the log model for calculation distances from RSSI values
 Uses kalman filter for filtering out erratic data in real-time (Assumption: External noises are null)
+You are to run all the python scripts concurrently
 
 Software:
 1. MongoDB
